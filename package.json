@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/mikasaukyou/node-multi-hashing.git"
+        "url": "https://github.com/mikasaukyou/node-multi-hashing-old.git"
     },
     "dependencies": {
         "bindings": "^1.3.0",
